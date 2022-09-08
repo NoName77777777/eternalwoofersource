@@ -1,0 +1,7 @@
+D:\Users\nikb\Downloads\skidded-woofer\obj\Debug\net48\Eternal-Woofer-V2.csproj.AssemblyReference.cache
+D:\Users\nikb\Downloads\skidded-woofer\obj\Debug\net48\Eternal-Woofer-V2.csproj.SuggestedBindingRedirects.cache
+D:\Users\nikb\Downloads\skidded-woofer\obj\Debug\net48\KeyAuth.Login.resources
+D:\Users\nikb\Downloads\skidded-woofer\obj\Debug\net48\KeyAuth.Main.resources
+D:\Users\nikb\Downloads\skidded-woofer\obj\Debug\net48\Eternal-Woofer-V2.csproj.GenerateResource.cache
+D:\Users\nikb\Downloads\skidded-woofer\obj\Debug\net48\Eternal-Woofer-V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\nikb\Downloads\skidded-woofer\obj\Debug\net48\Eternal-Woofer-V2.csproj.CoreCompileInputs.cache

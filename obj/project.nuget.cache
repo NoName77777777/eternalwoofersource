@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rb4gaKWhs7j+WxaloekVE2x3uTL57Cot7fFr0sLxqQg9GF9UdjkT8RvvL/Uwh54o20+sTgS/g+FI1UsQUIs0VA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\nikb\\Downloads\\skidded-woofer\\Eternal-Woofer-V2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikb\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.4\\guna.ui2.winforms.2.0.3.4.nupkg.sha512",
+    "C:\\Users\\nikb\\.nuget\\packages\\siticone.desktop.ui\\2.0.9\\siticone.desktop.ui.2.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

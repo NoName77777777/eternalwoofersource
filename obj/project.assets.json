@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Guna.UI2.WinForms/2.0.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {}
+        }
+      },
+      "Siticone.Desktop.UI/2.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Siticone.Desktop.UI.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Siticone.Desktop.UI.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win7-x86": {
+      "Guna.UI2.WinForms/2.0.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Guna.UI2.dll": {}
+        }
+      },
+      "Siticone.Desktop.UI/2.0.9": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Siticone.Desktop.UI.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Siticone.Desktop.UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guna.UI2.WinForms/2.0.3.4": {
+      "sha512": "p/Ibrg/SgWcwuh8Z5UxnV7F5XMGR/063uwNdcr9nVRKK9UNMGNEAmA1J3CGIhVRemA+EU4p+xpmO/7aVjx0slw==",
+      "type": "package",
+      "path": "guna.ui2.winforms/2.0.3.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "guna.ui2.winforms.2.0.3.4.nupkg.sha512",
+        "guna.ui2.winforms.nuspec",
+        "icon.png",
+        "lib/net40/Guna.UI2.dll"
+      ]
+    },
+    "Siticone.Desktop.UI/2.0.9": {
+      "sha512": "pZ+LG1gkp38FMHP+ffo/uqONn0D1iP3Zj6IgI+HXygEeGPUTGIqxi5E4nQHGiTGvTQKP5t/MOinUggw0JX0xqQ==",
+      "type": "package",
+      "path": "siticone.desktop.ui/2.0.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "icon.png",
+        "lib/net40/Siticone.Desktop.UI.dll",
+        "siticone.desktop.ui.2.0.9.nupkg.sha512",
+        "siticone.desktop.ui.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Guna.UI2.WinForms >= 2.0.3.4",
+      "Siticone.Desktop.UI >= 2.0.9"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nikb\\.nuget\\packages\\": {},
+    "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\nikb\\Downloads\\skidded-woofer\\Eternal-Woofer-V2.csproj",
+      "projectName": "Eternal Woofer",
+      "projectPath": "D:\\Users\\nikb\\Downloads\\skidded-woofer\\Eternal-Woofer-V2.csproj",
+      "packagesPath": "C:\\Users\\nikb\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\nikb\\Downloads\\skidded-woofer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nikb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "Guna.UI2.WinForms": {
+            "target": "Package",
+            "version": "[2.0.3.4, )"
+          },
+          "Siticone.Desktop.UI": {
+            "target": "Package",
+            "version": "[2.0.9, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
